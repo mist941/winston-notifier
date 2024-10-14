@@ -1,0 +1,6 @@
+# Exclude environment and project settings directories
+!/.venv/
+!/.idea/
+
+# Exclude environment-specific configuration file
+!/.env
